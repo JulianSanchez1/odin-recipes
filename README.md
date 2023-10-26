@@ -1,3 +1,3 @@
 # odin-recipes 
 
-This is my first web page by just using HTML. Nest i am going to learn CSS.
+This is my first web page by just using HTML. Next i am going to learn CSS.
